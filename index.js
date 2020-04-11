@@ -1,2 +1,1 @@
-console.error("HALLPPPPP!"
-)
+console.error("HALLPPPPP!")
